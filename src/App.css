@@ -240,10 +240,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 border-color: transparent;
 }
 
-/************ Banner Css ************/
+/* Home */
 .banner {
 margin-top: 0;
-padding: 260px 0 100px 0;
+padding: 220px 0 100px 0;
 background-image: url('./assets/images/banner-bg.png');
 background-position: top center;
 background-size: cover;
@@ -310,17 +310,17 @@ animation: updown 3s linear infinite;
 border-right: 0.08em solid #666;
 }
 
-/************ Skills Css ************/
+/* Skills */
 .skill {
-padding: 0 0 50px 0;
+padding: 0 0 70px 0;
 position: relative;
 }
 .skill-bx {
 background: #151515;
 border-radius: 64px;
 text-align: center;
-padding: 60px 50px;
-margin-top: -60px;
+padding: 80px 50px;
+margin-top: 50px;
 }
 .skill h2 {
 font-size: 45px;
@@ -334,6 +334,7 @@ font-weight: 700;
   margin: 14px 0 75px 0;
 }
 .skill-slider {
+  padding-top: 50px;
 width: 80%;
 margin: 0 auto;
 position: relative;
@@ -476,7 +477,7 @@ right: 0;
 z-index: -4;
 }
 
-/************ Projects Css ************/
+/* projects */
 .contact {
 background: linear-gradient(90.21deg, #a25f94 -5.91%, #2f63bd 111.58%);
 padding: 60px 0 200px 0;
@@ -548,7 +549,7 @@ transition: 0.3s ease-in-out;
 width: 100%;
 }
 
-/************ Footer Css ************/
+/* footer */
 .footer {
 padding: 50px 0 50px 0;
 background-image: url('./assets/images/footer-bg.png');

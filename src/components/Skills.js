@@ -51,15 +51,15 @@ const Skills = () => {
 
                 <div className="item">
                   <img src={metre2} alt="Image" />
-                  <h5>Brand Identify</h5>
+                  <h5>Problem Solving</h5>
                 </div>
                 <div className="item">
                   <img src={metre3} alt="Image" />
-                  <h5>Logo Design</h5>
+                  <h5>Self Learning</h5>
                 </div>
                 <div className="item">
                   <img src={metre1} alt="Image" />
-                  <h5>Web Development</h5>
+                  <h5>Communication Skills</h5>
                 </div>
               </Carousel>
             </div>
