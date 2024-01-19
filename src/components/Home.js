@@ -77,8 +77,8 @@ const Home = () => {
                   React Project: Build My Responsive Portfolio Website
                   with Advanced Animations
                 </p>
-                <Button onClick={() => console.log("connect")}>
-                  Let's Connect <ArrowRightCircle size={25} />
+                <Button>
+                  Let's Start <ArrowRightCircle size={25} />
                 </Button>
               </div>
             </TrackVisibility>
